@@ -1,0 +1,1 @@
+﻿app/_layout.tsx(33,95): error TS2493: Tuple type '[string]' of length '1' has no element at index '1'.
